@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Marcellus&display=swap');
+
+body {
+    background-color: pink;
+}
+
+.heading {
+    text-align: center;
+}
+
+.kohupiimakook-heading {
+    font-size: 3rem;
+    font-family: "Dancing Script", cursive;
+}
+
+.title {
+    font-family: "Marcellus", serif;
+}
+
+.ingredients {
+    color: black;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin-left: 5rem;
+    color: rgb(26, 84, 146);
+}
+
+.title-heading {
+    font-family: "Marcellus", serif;
+}
+
+.instructions {
+    border: 1px solid red;
+    margin-right: 60rem;
+    color: brown;
+}
+
+.footer {
+    text-align: center;
+}
